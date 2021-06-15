@@ -23,4 +23,4 @@ Puedes revisar el código del ejemplo y probarlo a través de [Replit](https://r
 
 ![Example Image](https://raw.githubusercontent.com/cyandestructor/Taller-KaboomJS-Mario/master/repo-assets/example.png)
 
-[Kaboom]: https://replit.com/@cyandestructor/KaboomMario
+[Kaboom]: https://kaboomjs.com/
